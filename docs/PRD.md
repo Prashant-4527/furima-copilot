@@ -1,6 +1,6 @@
 # Product Requirements Document (PRD)
 
-**Product:** Mercari Smart Listing Agent (independent portfolio prototype)  
+**Product:** Mercari Smart Listing Agent   
 **Status:** Draft v0.1 | **Updated:** 2026-10-26
 
 ## 1. User and problem
